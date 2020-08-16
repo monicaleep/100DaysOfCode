@@ -6,4 +6,5 @@
 - Day 3: Finished uDemy course "Single Page App with AJAX". Pushed to [github](https://github.com/monicaleep/TodoSPA).
   - Challenge: Course was quite outdated so some node modules had security issues, upon updating to latest had to make some other changes
   - Also, first time to run microservices.
-- Day 4:
+- Day 4: Add my own search feature to the ToDo app all by myself :)
+- Day 5: Reviewed Sass on freecodecamp and began React project: Markdown previewer
