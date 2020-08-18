@@ -7,4 +7,5 @@
   - Challenge: Course was quite outdated so some node modules had security issues, upon updating to latest had to make some other changes
   - Also, first time to run microservices.
 - Day 4: Add my own search feature to the ToDo app all by myself :)
-- Day 5: Reviewed Sass on freecodecamp and began React project: Markdown previewer
+- Day 5: Reviewed Sass on freeCodeCamp and worked through React (official tutorial) and started React section on freeCodeCamp.
+- Day 6: Working through React section on freeCodeCamp - 50% done. Finding this a bit better to understand than the "official" React tutorial.
