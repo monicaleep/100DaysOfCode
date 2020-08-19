@@ -10,3 +10,4 @@
 - Day 5: Reviewed Sass on freeCodeCamp and worked through React (official tutorial) and started [React](react.md) section on freeCodeCamp.
 - Day 6: Working through [React](react.md) section on freeCodeCamp - 50% done. Finding this a bit better to understand than the "official" React tutorial.
 - Day 7: Continuing through the React challenges ~70% though. Quite a lot to digest.
+- Day 8: Command line project (murder mystery). Did a few React challenges. 41/47 done now.

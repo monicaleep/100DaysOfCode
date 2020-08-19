@@ -248,3 +248,20 @@ Callback functions can also be passed as props.
 
 #### Lifecycle method
 React components also have several special methods that activate at specific points in the lifecycle of a component. These are also called lifecycle hooks. Some of the main lifecycle methods are componentDidMount, shouldComponentUpdate, componentDidUpdate... read the docs. If you are going to call an API endpoint with React, usually this call is done in the component `componentDidMount()` Any calls to setState in here will trigger a re-rendering of the component. It is also a good place to attach any event listeners.
+
+#### Styles in React
+Styles can be done directly in React code. Either inline styles or as an object. In both cases, you need to use camelCase for properties.
+```js
+const styles = {
+  color: "purple",
+  fontSize: 40,
+  border: "2px solid purple"
+}
+class Colorful extends React.Component {
+  render() {
+    return (
+      <div style={styles}>Style Me!</div>
+    );
+  }
+};
+```
