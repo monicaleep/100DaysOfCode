@@ -21,5 +21,5 @@
 - Day 16: Working on [Redux](redux.md) challenges
 - Day 17: Got all tests to pass on MD previewer and submitted.
 - Day 18: Reviewed timing functions and call stack. Reviewed iterables.
-- Day 19: Day off...
-- Day 20: Will finish Redux and start React w/Redux challenges
+- Day 19: Day off... will do double on day 20
+- Day 20: Will finish Redux and start [React w/Redux](reactredux.md) challenges. Attend WWCode talk on Netlify deployment with Gatsby
