@@ -15,3 +15,11 @@
 - Day 10: Pretty quiet today - work was busy. Submitted my homework (CSS/HTML clone), revised to use flex-columns to put the content on the page and center it
 - Day 11: Learned about CSS frameworks other than bootstrap.
 - Day 12: Work on markdown previewer in React, mostly finished.
+- Day 13: Not too much done today, fixed some CSS on my markdown previewer.
+- Day 14: Deployed [MarkdownPreviewer](https://monicaleep.github.io/MarkdownPreviewer/). Starting Redux challenges on freeCodeCamp.
+- Day 15: Finished React challenges, reviewing ES6 syntax.
+- Day 16: Working on [Redux](redux.md) challenges
+- Day 17: Got all tests to pass on MD previewer and submitted.
+- Day 18: Reviewed timing functions and call stack. Reviewed iterables.
+- Day 19: Day off...
+- Day 20: Will finish Redux and start React w/Redux challenges
