@@ -22,4 +22,7 @@
 - Day 17: Got all tests to pass on MD previewer and submitted.
 - Day 18: Reviewed timing functions and call stack. Reviewed iterables.
 - Day 19: Day off... will do double on day 20
-- Day 20: Will finish Redux and start [React w/Redux](reactredux.md) challenges. Attend WWCode talk on Netlify deployment with Gatsby
+- Day 20: Will finish Redux and start [React w/Redux](reactredux.md) challenges.
+- Day 21: Outlining and starting(?) my Drum Machine
+- Day 22: Hosted a WWCode meetup on algorithms, reviewed linked list methods.
+- Day 23: Watched first 3.5 hours of "JS: Understanding the Weird Parts"
